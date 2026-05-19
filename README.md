@@ -38,9 +38,13 @@ The motivation behind this project is to solve real-world safety problems faced 
 Traditional fall detection systems suffer from:
 
 ❌ Delayed emergency response
+
 ❌ Manual monitoring dependency
+
 ❌ High false detection rates
+
 ❌ Lack of intelligent decision-making
+
 ❌ No adaptive learning capability
 
 This project aims to overcome these limitations using AI-driven robotic intelligence.
@@ -52,9 +56,13 @@ This project aims to overcome these limitations using AI-driven robotic intellig
 Design and develop an intelligent robotic monitoring system capable of:
 
 * Detecting human falls in real time
+  
 * Differentiating between normal movement and dangerous falls
+  
 * Reducing false alarms
+  
 * Automatically sending emergency alerts
+  
 * Operating continuously using embedded hardware
 
 The system should work autonomously with minimal human intervention.
