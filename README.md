@@ -264,11 +264,17 @@ Where:
 # 📊 Advantages of the System
 
 ✅ Real-time detection
+
 ✅ Intelligent adaptive learning
+
 ✅ Low-cost embedded implementation
+
 ✅ Reduced false alarms
+
 ✅ Autonomous operation
+
 ✅ Immediate emergency response
+
 ✅ Scalable architecture
 
 ---
@@ -315,12 +321,19 @@ Future improvements may include:
 # 📂 Important Features Implemented
 
 ✔ YOLOv8 pose estimation
+
 ✔ Reinforcement learning-based classification
+
 ✔ Raspberry Pi deployment
+
 ✔ Twilio SMS alerts
+
 ✔ GPIO buzzer alerts
+
 ✔ Consecutive frame validation
+
 ✔ Real-time stream processing
+
 ✔ Adaptive learning mechanism
 
 ---
@@ -332,8 +345,11 @@ The **AI-FOR-ROBOTICS** project successfully demonstrates an intelligent AI-base
 By combining:
 
 * Computer vision
+  
 * Reinforcement learning
+  
 * Embedded systems
+  
 * IoT communication
 
 the system provides a reliable and cost-effective solution for real-world healthcare and safety applications.
